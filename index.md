@@ -7,3 +7,5 @@ Prácticas:
 [PR1003](practicas_ut10/pr1003.md)
 
 [PR1004](practicas_ut10/pr1004.md)
+
+[PR1005](practicas_ut10/pr1005.md)
