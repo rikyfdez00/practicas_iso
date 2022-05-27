@@ -12,4 +12,4 @@ Prácticas:
 
 [PR1006](practicas_ut10/pr1006.md)
 
-[PR1011](pr1011.md)
+[PR1011](practicas_ut10/pr1011.md)
