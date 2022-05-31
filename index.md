@@ -14,4 +14,6 @@ Prácticas:
 
 [PR1011](practicas_ut10/pr1011.md)
 
+[PDF1011](practicas_ut10/pr1011.pdf)
+
 [PR1102](practicas_ut10/pr1102.md)
